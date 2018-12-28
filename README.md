@@ -1,6 +1,6 @@
 # K-Closest-Circles (K-means variation)
 
-Algorithm in CUDA C that fits points in circles. For the calculation of the least squares solution in GPU MAGMA library (http://icl.cs.utk.edu/magma/) is used.
+Algorithm in CUDA C that fits points in circles. For the calculation in GPU of the least squares solution, MAGMA library (http://icl.cs.utk.edu/magma/) is used.
 
 ***
 <h3>K-Closest-Circles Algorithm</h3>
