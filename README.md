@@ -1,6 +1,6 @@
 # K-Closest-Circles (K-means variation)
 
-<div style="font-size: 12px">
+<div style="color:red;">
 <div><h3>K-Closest-Circles Algorithm</h3></div>
 
 <b>Input:</b><br>
