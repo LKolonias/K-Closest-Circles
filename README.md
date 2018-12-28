@@ -1,7 +1,7 @@
 # K-Closest-Circles (K-means variation)
 
-
-<h3>K-Closest-Circles Algorithm</h3>
+<div style="font-size: 12px">
+<div><h3>K-Closest-Circles Algorithm</h3></div>
 
 <b>Input:</b><br>
   1. N = number of points
@@ -23,5 +23,5 @@ Stop if either of these conditions are met:
   1. No change is assignment of points to circles from the previous iteration 
   2. Maximum number of iterations is reached
     
-    
+</div>
     
